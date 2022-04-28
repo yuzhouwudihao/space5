@@ -1,0 +1,207 @@
+*{ padding:0px;
+margin:0px; }
+.box{ width:100%;
+height:1000px;
+background:no-repeat center center fixed;
+overflow:hidden;}
+.box1{ background-image: url(h-12.jpg)}
+.box2{ background-image: url(h-8.jpg)}
+.box3{ background-image: url(h-13.jpg)}
+.box4{ background:#666  url(bg.png) no-repeat center bottom}
+.box5{ background-image: url(h-24.jpg)}
+.box6{ background-image: url(h-21.jpg)}
+.box7{ background-image: url(%E9%BB%91%E7%A7%91%E6%8A%80%E6%88%AA%E5%B1%8F.jpg);
+width:1920px;
+height:1080px;}
+.box8{ background-image: url(%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA.jpg);
+width:1920px;
+height:1080px;}
+.zuidin{ background-color: #FFFFFF;
+width:1920pz;
+height:60px;}
+.zuidin1{ width:50px;
+height:30px;
+float:left;
+margin-top:18px;
+margin-left:50px;}
+.zuidin2{ width:710px;
+height:30px;
+float:left;
+margin-top:18px;
+margin-left:700px;
+font-size:9px;
+}
+.zuidin2 a{ text-decoration:none; }
+
+body{ font-family:"微软雅黑"}
+.box .text h2{ font-weight:400px;
+font-size:36px;
+color:#333;
+line-height:1.6em;}
+.box .text p{ font-size:16px;
+color:#333;
+line-height:1.8em;
+margin-top:25px;}
+.box .text a{ font-size:16px;
+color:#ff6700;
+text-decoration:none;}
+.box7 .text a{ font-size:16px;
+color:#ff6700;
+text-decoration:none;}
+.box .text .price{ color:#F00;
+font-size:14px;
+margin-top:30px;
+margin-bottom:20px;}
+.box .text span{ font-size:36px;}
+.box2 .text{ margin-left:50%;
+margin-top:10%;
+}
+.box1 .text { margin-left:20%;
+margin-top:20%;}
+.box7 .text{ margin-top:200px;
+}
+.box2 .text h2{ color:#FFFFFF;}
+.box2 .text p{ color:#FFFFFF;}
+.box4 .text h2{ color:#FFFFFF;}
+.box4 .text p{ color:#FFFFFF;}
+.box7 .text h2{ color:#FFFFFF;}
+.box7 .text p{ color:#FFFFFF;}
+.box3 .text{ margin-left:1%;
+margin-top:20%;}
+.box4 .text{ margin-left:1%;
+margin-top:30%;}
+.box5 .text{ margin-left:20%;
+margin-top:20%;}
+.box6 .text{ margin-left:1%;
+margin-top:20%;}
+.box7 .text{ width:500px;
+height:500px;
+margin-left:27%;
+margin-top:30%;}
+.box8 .text1{ width:500px;
+height:500px;
+margin-left:27%;
+margin-top:20%;
+font-size:45px;
+font-family:宋体;}
+.box8 .text2{ width:300px;
+height:300px;
+margin-left:180px;
+margin-top:100px;
+float:left;
+}
+.box8 .text3{ width:300px;
+height:300px;
+float:left;
+margin-left:130px;
+margin-top:100px;
+}
+.box8 .text4{ width:300px;
+height:300px;
+float:left;
+margin-left:140px;
+margin-top:100px;
+}
+.box8 .text2 .y1{ width:25px;
+height:25px;
+background-color:#6FFF6F;
+float:left;
+margin-left:40px;
+border-radius:15px;
+
+}
+.box8 .text2 .y2{ width:25px;
+height:25px;
+background-color:#E4E4E4;
+float:left;
+margin-left:40px;
+border-radius:15px;
+}
+.box8 .text2 .y3{ width:25px;
+height:25px;
+background-color:#000000;
+float:left;
+margin-left:40px;
+border-radius:15px;
+
+}
+.box8 .text2 .y4{ width:25px;
+height:25px;
+background-color:#CECECE;
+float:left;
+margin-left:40px;
+border-radius:15px;
+}
+.box8 .text3 .y5{ width:25px;
+height:25px;
+background-color:#6FFF6F;
+float:left;
+border-radius:15px;
+margin-left:40px;
+}
+.box8 .text3 .y6{ width:25px;
+height:25px;
+background-color:#E4E4E4;
+float:left;
+border-radius:15px;
+margin-left:40px;
+}
+.box8 .text3 .y7{ width:25px;
+height:25px;
+background-color:#000000;
+float:left;
+border-radius:15px;
+margin-left:40px;
+}
+.box8 .text3 .y8{ width:25px;
+height:25px;
+background-color:#CECECE;
+float:left;
+border-radius:15px;
+margin-left:40px;
+margin-right:40px;
+}
+.box8 .text4 .y9{ width:25px;
+height:25px;
+background-color: #000000;
+float:left;
+border-radius:15px;
+margin-left:56.25px;
+}
+.box8 .text4 .y10{ width:25px;
+height:25px;
+background-color:#CECECE;
+float:left;
+border-radius:15px;
+margin-left:56.25px;
+}
+.box8 .text4 .y11{ width:25px;
+height:25px;
+background-color:#CECECE;
+float:left;
+border-radius:15px;
+margin-left:56.25px;
+margin-right:56.25px;
+}
+.box8 .text2 .wenzi1{
+	width:300px;
+	height:100px;
+	float:left;
+	margin-top:0px;
+	font-family:Helvetica;}
+.box8 .text2 .wenzi2{
+width:300px;
+height:100px;
+margin-top:20px;
+float:left;
+font-family:Helvetica;}
+.box8 .text2 .wenzi3{
+width:300px;
+height:100px;
+float:left;
+margin-top:10px;
+font-family:Helvetica;}
+
+
+
+
